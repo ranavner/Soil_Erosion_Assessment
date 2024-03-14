@@ -1,4 +1,4 @@
-![image](https://github.com/ranavner/Soil_Erosion_Assessment/assets/127611730/9a601361-74da-436b-8c81-ff5b1be61063)# Soil_Erosion_Assessment
+![image](https://github.com/ranavner/Soil_Erosion_Assessment/assets/127611730/9a601361-74da-436b-8c81-ff5b1be61063) #Soil_Erosion_Assessment
 
 This is our final project in the 'Image Processing' course.
 Our goal was to create a tool that will provide a farmer with a necessary tool to assess the extent to which his soil is sensitive to soil erosion.
