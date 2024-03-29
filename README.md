@@ -10,4 +10,4 @@ To use the tool, you will need to use the Stramlit library, and run the streamli
 You will then be introduced to the local web app, there you will upload the image you would like to process.
 The image must be taken from OpenStreetMap.comm
 
-## Currently, the output is very inaccurate, and must not be taken as reference.
+Currently, this project is very basic, therefore the output is very inaccurate, and must not be taken as a reference.
